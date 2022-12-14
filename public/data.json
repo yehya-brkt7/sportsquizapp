@@ -2,6 +2,7 @@
   {
     "id": "0",
     "rating": "easy",
+    "sport": "football",
     "question": "who won the ballon d'or 2022",
     "answers": [
       {
@@ -22,6 +23,7 @@
   {
     "id": "1",
     "rating": "easy",
+    "sport": "nba",
     "question": "who won the NBA 2021-22",
     "answers": [
       {
@@ -42,6 +44,7 @@
   {
     "id": "2",
     "rating": "easy",
+    "sport": "nba",
     "question": "who averaged the most points in the 2021-22 NBA season",
     "answers": [
       {
@@ -61,6 +64,7 @@
   {
     "id": "3",
     "rating": "easy",
+    "sport": "nba",
     "question": "who has the most nba points of all time (regular season)",
     "answers": [
       {
@@ -80,6 +84,7 @@
   {
     "id": "4",
     "rating": "easy",
+    "sport": "football",
     "question": "which club has the most champions league titles",
     "answers": [
       {
@@ -99,6 +104,7 @@
   {
     "id": "5",
     "rating": "medium",
+    "sport": "nba",
     "question": "who was the top assister in the 2021-22 NBA season (total number of assists)",
     "answers": [
       {
@@ -118,6 +124,7 @@
   {
     "id": "6",
     "rating": "easy",
+    "sport": "football",
     "question": "who won the champions league 2021-22",
     "answers": [
       {
@@ -137,6 +144,7 @@
   {
     "id": "7",
     "rating": "easy",
+    "sport": "football",
     "question": "who was topscorer of the champions league 2021-22 tournament",
     "answers": [
       {
@@ -156,6 +164,7 @@
   {
     "id": "8",
     "rating": "easy",
+    "sport": "nba",
     "question": "who averaged the most rebounds in the 2021-22 NBA season",
     "answers": [
       {
@@ -175,6 +184,7 @@
   {
     "id": "9",
     "rating": "medium",
+    "sport": "nba",
     "question": "who has the most steals in the 2021-22 NBA season(total)",
     "answers": [
       {
@@ -194,6 +204,7 @@
   {
     "id": "10",
     "rating": "medium",
+    "sport": "nba",
     "question": "who has the most blocks in the 2021-22 NBA season(total)",
     "answers": [
       {
@@ -213,6 +224,7 @@
   {
     "id": "11",
     "rating": "medium",
+    "sport": "nba",
     "question": "who has the most turnovers in the 2021-22 NBA season(total)",
     "answers": [
       {
@@ -232,6 +244,7 @@
   {
     "id": "12",
     "rating": "easy",
+    "sport": "nba",
     "question": "who has the most threes in the 2021-22 NBA season(total)",
     "answers": [
       {
@@ -251,6 +264,7 @@
   {
     "id": "13",
     "rating": "medium",
+    "sport": "nba",
     "question": "who is the tallest player in the nba 2021-22",
     "answers": [
       {
@@ -270,6 +284,7 @@
   {
     "id": "14",
     "rating": "medium",
+    "sport": "nba",
     "question": "who has the most blocks in the 2021-22 NBA season(total)",
     "answers": [
       {
@@ -289,6 +304,7 @@
   {
     "id": "15",
     "rating": "medium",
+    "sport": "nba",
     "question": "who is the shortest player in the nba 2021-22",
     "answers": [
       {
@@ -308,6 +324,7 @@
   {
     "id": "16",
     "rating": "medium",
+    "sport": "nba",
     "question": "who is the oldest player in the NBA 2021-22",
     "answers": [
       {
@@ -327,6 +344,7 @@
   {
     "id": "17",
     "rating": "easy",
+    "sport": "nba",
     "question": "what team does Anthony Edwards play for",
     "answers": [
       {
@@ -346,6 +364,7 @@
   {
     "id": "18",
     "rating": "easy",
+    "sport": "nba",
     "question": "what team does Kristaps Porzingis play for (2022)",
     "answers": [
       {
@@ -365,6 +384,7 @@
   {
     "id": "19",
     "rating": "easy",
+    "sport": "nba",
     "question": "what team does Spencer Dinwiddie play for (2022)",
     "answers": [
       {
@@ -384,6 +404,7 @@
   {
     "id": "20",
     "rating": "medium",
+    "sport": "nba",
     "question": "what team does Franz Wagner play for (2022)",
     "answers": [
       {

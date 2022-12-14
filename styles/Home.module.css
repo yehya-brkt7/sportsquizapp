@@ -4,6 +4,7 @@
   border-radius: 10px;
   background-color: #fff;
   margin-top: 50px;
+  opacity: 0.8;
 }
 
 .main {
@@ -41,4 +42,8 @@
 .question {
   padding-bottom: 30px;
   border-bottom: 0.2px solid grey;
+}
+
+.gameover {
+  margin-top: 200px;
 }
