@@ -25,6 +25,7 @@ export default function Quiz({ sport, setSelected }) {
       setData(response.data);
       setLoaded(true);
     });
+    console.log(newdata.length);
   }, []);
 
   useEffect(() => {
@@ -79,7 +80,7 @@ export default function Quiz({ sport, setSelected }) {
 
   //check if game ended
   useEffect(() => {
-    if (newdata.length == 0) {
+    if (newdata.length == 1) {
       setCheckgametime(false);
     } else setCheckgametime(true);
   }, [newdata.length]);
@@ -98,7 +99,7 @@ export default function Quiz({ sport, setSelected }) {
                 </p>
                 <div>
                   {newdata.length > 0 &&
-                    newdata[0].answers.map((a) => {
+                    newdata[0]?.answers.map((a) => {
                       return (
                         <>
                           <button
