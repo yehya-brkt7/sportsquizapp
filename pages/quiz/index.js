@@ -6,7 +6,6 @@ import Grid from "@mui/material/Grid";
 import { style } from "@mui/system";
 import Link from "next/link";
 import Home from "../index";
-// import { style } from "@mui/system";
 
 export default function Quiz({ sport, setSelected }) {
   const [data, setData] = useState([]);
@@ -51,6 +50,7 @@ export default function Quiz({ sport, setSelected }) {
     if (newdata.length > 0) {
       const updatedList = newdata.splice(1);
       setnewData(updatedList);
+      setCheck(false);
     }
 
     if (check == true && newdata.length > 0 && newdata[0].rating == "easy") {
@@ -61,6 +61,18 @@ export default function Quiz({ sport, setSelected }) {
       newdata[0].rating == "medium"
     ) {
       setScore(score + 2);
+    } else if (
+      check == true &&
+      newdata.length > 0 &&
+      newdata[0].rating == "hard"
+    ) {
+      setScore(score + 3);
+    } else if (
+      check == false &&
+      newdata.length > 0 &&
+      newdata[0].rating == "hard"
+    ) {
+      setScore(score - 3);
     } else if (
       check == false &&
       newdata.length > 0 &&

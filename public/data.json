@@ -420,5 +420,525 @@
         "type": false
       }
     ]
+  },
+  {
+    "id": "21",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who averaged the most minutes per game in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "James Harden",
+        "type": false
+      },
+      {
+        "answer": "Pascal Siakam",
+        "type": true
+      },
+      {
+        "answer": "Fred VanVleet",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who had the best FG% in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Rudy Gobert",
+        "type": false
+      },
+      {
+        "answer": "Robert Williams III",
+        "type": true
+      },
+      {
+        "answer": "Daniel Gafford",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who had the best 3 point % in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Cameron Johnson",
+        "type": false
+      },
+      {
+        "answer": "Desmoned Bane",
+        "type": false
+      },
+      {
+        "answer": "Luke Kennard",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who average the most offensive rebounds in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Steven Adams",
+        "type": true
+      },
+      {
+        "answer": "Robert Williams III",
+        "type": false
+      },
+      {
+        "answer": "Mitchel Robinson",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "rating": "medium",
+    "sport": "nba",
+    "question": "who averaged the most turnovers in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Trae Young",
+        "type": false
+      },
+      {
+        "answer": "Luka Doncic",
+        "type": true
+      },
+      {
+        "answer": "James Harden",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "rating": "medium",
+    "sport": "nba",
+    "question": "who averaged the most blocks in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Jaren Jackson Jr",
+        "type": false
+      },
+      {
+        "answer": "Robert Williams III",
+        "type": false
+      },
+      {
+        "answer": "Myles Turner",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who had the most double doubles in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Rudy Gobert",
+        "type": false
+      },
+      {
+        "answer": "Nikola Jokic",
+        "type": true
+      },
+      {
+        "answer": "Jonas Valanciunas",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who had the most triple doubles in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Nikola Jokic",
+        "type": true
+      },
+      {
+        "answer": "Luka Doncic",
+        "type": false
+      },
+      {
+        "answer": "James Harden",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who averaged the most points in the PLAYOFFS of the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Giannis Antetenkoumpo",
+        "type": false
+      },
+      {
+        "answer": "Luka Doncic",
+        "type": true
+      },
+      {
+        "answer": "Jimmy Butler",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who averaged the most rebounds in the PLAYOFFS of the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Giannis Antetenkoumpo",
+        "type": true
+      },
+      {
+        "answer": "Joel Embiid",
+        "type": false
+      },
+      {
+        "answer": "Al Horford",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who averaged the most assists in the PLAYOFFS of the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Ja Morant",
+        "type": true
+      },
+      {
+        "answer": "James Harden",
+        "type": false
+      },
+      {
+        "answer": "Chris Paul",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who had the best FT% in the PLAYOFFS of the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Tyrese Maxey",
+        "type": false
+      },
+      {
+        "answer": "Mikal Bridges",
+        "type": false
+      },
+      {
+        "answer": "Chris Paul",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "who had the best 3 point % in the PLAYOFFS of the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Maxi Kleber",
+        "type": false
+      },
+      {
+        "answer": "Al Horford",
+        "type": false
+      },
+      {
+        "answer": "Desmoned Bane",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the most points in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Memphis Grizzlies",
+        "type": false
+      },
+      {
+        "answer": "Minnesota Timberwolves",
+        "type": true
+      },
+      {
+        "answer": "Milwaukee Bucks",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the least points allowed in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Boston Celtics",
+        "type": true
+      },
+      {
+        "answer": "Golden State Warriors",
+        "type": false
+      },
+      {
+        "answer": "Dallas Mavericks",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team had the best FG% in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Phoenix Suns",
+        "type": true
+      },
+      {
+        "answer": "Denver Nuggets",
+        "type": false
+      },
+      {
+        "answer": "Chicago Bulls",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the least FG% allowed in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Boston Celtics",
+        "type": true
+      },
+      {
+        "answer": "Golden State Warriors",
+        "type": false
+      },
+      {
+        "answer": "Phoenix Suns",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the best FT% in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Philadelpia Sixers",
+        "type": true
+      },
+      {
+        "answer": "Boston Celtics",
+        "type": false
+      },
+      {
+        "answer": "Chicago Bulls",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the best 3pt% in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Atlanta Hawks",
+        "type": false
+      },
+      {
+        "answer": "Miami Heat",
+        "type": true
+      },
+      {
+        "answer": "LA Clippers",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the least 3pt% allowed in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Miami Heat",
+        "type": false
+      },
+      {
+        "answer": "Boston Celtics",
+        "type": true
+      },
+      {
+        "answer": "Golden State Warriors",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team MADE the most 3S in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Utah Jazz",
+        "type": false
+      },
+      {
+        "answer": "Minnesota Timberwolves",
+        "type": true
+      },
+      {
+        "answer": "Golden State Warriors",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the most assists in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "San Antonio Spurs",
+        "type": false
+      },
+      {
+        "answer": "Charlotte Hornets",
+        "type": true
+      },
+      {
+        "answer": "Denver Nuggets",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the most rebounds in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Memphis Grizzlies",
+        "type": true
+      },
+      {
+        "answer": "Milwaukee Bucks",
+        "type": false
+      },
+      {
+        "answer": "Utah Jazz",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the most steals in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Memphis Grizzlies",
+        "type": true
+      },
+      {
+        "answer": "Minnesota Timberwolves",
+        "type": false
+      },
+      {
+        "answer": "Toronto Raptors",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the most blocks in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Memphis Grizzlies",
+        "type": true
+      },
+      {
+        "answer": "Minnesota Timberwolves",
+        "type": false
+      },
+      {
+        "answer": "Boston Celtics",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "rating": "hard",
+    "sport": "nba",
+    "question": "which team averaged the least turnovers in the 2021-22 NBA season",
+    "answers": [
+      {
+        "answer": "Atlanta Hawks",
+        "type": true
+      },
+      {
+        "answer": "Dallas Mavericks",
+        "type": false
+      },
+      {
+        "answer": "Toronto Raptors",
+        "type": false
+      }
+    ]
   }
 ]

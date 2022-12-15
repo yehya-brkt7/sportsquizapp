@@ -7,7 +7,7 @@ import Link from "next/link";
 import Quiz from "./quiz";
 
 export default function Home() {
-  const [sport, setSport] = useState();
+  const [sport, setSport] = useState("");
   const [selected, setSelected] = useState(false);
 
   return (
@@ -32,7 +32,11 @@ export default function Home() {
           </Grid>
 
           <Grid item xs={12} marginTop="100px">
-            <button onClick={() => setSelected(true)} className={styles.button}>
+            <button
+              disabled={sport == ""}
+              onClick={() => setSelected(true)}
+              className={styles.button}
+            >
               Start Quiz
             </button>
           </Grid>
