@@ -1,3 +1,9 @@
+SPORTSQUIZ: This is a football and NBA related quiz where the user can choose one of the two sports and completes a set of questions. A score is calculated at the end.
+
+Done using: NEXTjs, Css modules, Axios to fetch API
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
